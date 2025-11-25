@@ -1,7 +1,7 @@
 # Autonomous Expert Agents — Mistral + Google Colab
- ### Cortex Hub
+
 <div align=center>
-![logo-low](https://github.com/user-attachments/assets/d71ed41a-8adb-4311-b459-03bd5ddbe985) 
+### Cortex Hub 
 </div>
 
 ---
