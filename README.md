@@ -1,10 +1,12 @@
 # Autonomous Expert Agents — Mistral + Google Colab
-
-### Cortex Hub
+ ### Cortex Hub
+<div align="center">
+![logo-low](https://github.com/user-attachments/assets/d71ed41a-8adb-4311-b459-03bd5ddbe985) </div>
 
 ---
 
 ## 🔎 Visão Geral
+
 
 Este repositório consolida uma arquitetura de **agentes autônomos especialistas** construída sobre:
 
