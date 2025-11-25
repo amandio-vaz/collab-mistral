@@ -1,10 +1,6 @@
 # Autonomous Expert Agents — Mistral + Google Colab
 ## Projeto: Cortex
 
----
-
----
-
 ## 🔎 Visão Geral
 
 Este repositório consolida uma arquitetura de **agentes autônomos especialistas** construída sobre:
