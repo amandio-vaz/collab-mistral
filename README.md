@@ -1,5 +1,8 @@
 # Autonomous Expert Agents — Mistral + Google Colab
+
 ### Cortex Hub
+
+---
 
 ## 🔎 Visão Geral
 
